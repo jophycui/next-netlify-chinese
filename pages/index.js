@@ -20,7 +20,7 @@ export default function Home() {
             and log in to explore our features.
           </p>
           <a href="com.lechinese://login" className="button">
-            Open LeChinese App
+            Back to LeChinese App
           </a>
         </div>
       </main>
