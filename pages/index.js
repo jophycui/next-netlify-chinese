@@ -19,7 +19,7 @@ export default function Home() {
             can return to the <span className="app-name">LeChinese</span> app
             and log in to explore our features.
           </p>
-          <a href="yourapp://login" className="button">
+          <a href="com.lechinese://login" className="button">
             Open LeChinese App
           </a>
         </div>
